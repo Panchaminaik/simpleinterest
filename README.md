@@ -1,2 +1,2 @@
 # simpleinterest
-simple interest advance java RMI programme
+simple interest advance java RMI program
